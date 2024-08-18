@@ -13,7 +13,7 @@
   - **Header**: Includes the store logo and main navigation.
   - **Quote Section**: Displays an inspiring quote related to books.
   - **Information Section**: Provides details about the store, its mission, and values.
-  - **Footer**: Contains contact information, copyright details, and additional links.
+  - **Footer**: Contains contact information and copyright details.
   - **Contact Form**: An additional form available in `form.html` for users to get in touch with the store.
 
 ## Technologies Used
